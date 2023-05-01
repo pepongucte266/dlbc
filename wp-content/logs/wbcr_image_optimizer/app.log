@@ -1,0 +1,22 @@
+
+23-03-2021 06:42:12.1616481732.3574 [14.226.239.18][60598d][info] Parent plugin start installation!
+23-03-2021 06:42:12.1616481732.479 [14.226.239.18][60598d][info] Plugin installation: try create plugin tables.
+																	-DB Version: 0
+																	-Plugin Version in DB: 0
+																	-Current Plugin Version: 1.5.0
+23-03-2021 06:42:12.1616481732.8354 [14.226.239.18][60598d][info] Parent plugin installation complete!
+23-03-2021 06:42:18.1616481738.137 [14.226.239.18][60598d][info] Parent plugin start deactivation!
+23-03-2021 06:42:18.1616481738.1371 [14.226.239.18][60598d][info] Parent plugin deactivation complete!
+23-03-2021 06:42:20.1616481740.9206 [14.226.239.18][60598d][info] Parent plugin start installation!
+23-03-2021 06:42:20.1616481740.9234 [14.226.239.18][60598d][info] Plugin installation: try create plugin tables.
+																	-DB Version: 1
+																	-Plugin Version in DB: 1.5.0
+																	-Current Plugin Version: 1.5.0
+23-03-2021 06:42:20.1616481740.9256 [14.226.239.18][60598d][info] Parent plugin installation complete!
+07-04-2021 04:14:14 [dulichbiencat.vn][info] Plugin migration to 1.5.1 was successful!
+-------------------------------
+08-04-2021 16:19:05 [dulichbiencat.vn][info] Try to create backup directory. Backup dir: (/var/www/vhosts/dulichbiencat.vn/httpdocs/wp-content/uploads/wio_backup)
+-------------------------------
+08-04-2021 16:24:57 [dulichbiencat.vn][info] Parent plugin start deactivation!
+08-04-2021 16:24:57 [dulichbiencat.vn][info] Parent plugin deactivation complete!
+-------------------------------
